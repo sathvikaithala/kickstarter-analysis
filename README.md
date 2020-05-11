@@ -1,5 +1,5 @@
 # Kickstarter Campaign Analysis
-Module 1 Challenge Repository
+Module 1 Challenge
 
 ### Challenge
 
