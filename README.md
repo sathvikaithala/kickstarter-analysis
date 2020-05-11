@@ -25,7 +25,7 @@ In the first part of our analysis, we looked for trends related to the goal of e
 * On the other hand, it is clear that the worst month to start a campaign is in December. 
 
 --- 
-### This analysis has a few limitations, and could likely be improved upon. Here are a few examples, among others.
+### Limitations
 
 1) We did not filter our data by country. Though we would have had a smaller data set to perform our analysis on, the inclusion of countries where Kickstarter may not be as popular or well known can skew our data. For example, the US has a 61% success rate for plays (n=671), whereas Australia had a 33% success rate (n = 15). The overall success rate for all plays is around 65%. By including countries that Louise does not plan to launch her campaign in, our analysis was not as detailed or granular as it could have been, and we may have been able to find trends that were US-specific in order to further help Louise with her project.
 
@@ -37,7 +37,7 @@ In the first part of our analysis, we looked for trends related to the goal of e
 
 
 ---
-### This analysis could be improved with the addition of a few select tables and graphs.
+### Additional Tables and Graphs to Enhance Analysis
 
 1) Including descriptive statistics on both the Goal, as well as the Pledged amounts would have helped advise Louise on a range of goals that she should strive to be within. This, along with our plot showing Outcomes based on Goals, would have helped Louise determine the most optimal goal to set for her campaign.
 
