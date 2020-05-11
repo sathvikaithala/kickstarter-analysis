@@ -18,6 +18,8 @@ In the first part of our analysis, we looked for trends related to the goal of e
 
 * We also see that, so far, no plays have been canceled. 
 
+In the second part of our analysis, we strove to determine the best time to launch Louise's campaign based on historical data for the same genre as her project -- to accomplish this, we focused only on the "theater" category.
+
 ![Outcomes by Launch](Outcomes%20by%20Launch%20-%20Challenge.png)
 
 * This plot helps us determine that the best time to launch a theater campaign is during the summer months of May and June. There are many successful campaigns that are launched in this time frame. 
